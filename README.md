@@ -108,7 +108,8 @@ SimpleHillClimbing()
 
 ## OUTPUT :
 
-![alt text](OUTPUT.png)
+<img width="732" height="712" alt="image" src="https://github.com/user-attachments/assets/e49be13e-22f2-4e66-8d76-cfdad7a68c53" />
+
 
 ## RESULT :
 
